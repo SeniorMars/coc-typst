@@ -1,6 +1,6 @@
 # coc-typst
 
-A coc extension for the typst Language server
+Typst support for coc
 
 ## Install
 
